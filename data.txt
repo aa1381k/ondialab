@@ -1,0 +1,185 @@
+-------5.jpg-------
+Large rectangle: 0
+Small rectangle: 12
+Number of strips: 4
+control line= 0
+bits decimal: 0
+Side=Dimond
+bits binary:00000000
+-------4.jpg-------
+Large rectangle: 4
+Small rectangle: 8
+Number of strips: 1
+control line= 1
+bits decimal: 192
+Side=Disk
+bits binary:11000000
+-------14.jpg-------
+Large rectangle: 2
+Small rectangle: 10
+Number of strips: 2
+control line= 1
+bits decimal: 64
+Side=Dimond
+bits binary:01000000
+-------13.jpg-------
+Large rectangle: 2
+Small rectangle: 10
+Number of strips: 4
+control line= 0
+bits decimal: 1
+Side=Disk
+bits binary:00000001
+-------12.jpg-------
+Large rectangle: 4
+Small rectangle: 9
+Number of strips: 2
+control line= 1
+bits decimal: 192
+Side=Triangle
+bits binary:11000000
+-------13.jpg-------
+Large rectangle: 2
+Small rectangle: 10
+Number of strips: 4
+control line= 0
+bits decimal: 1
+Side=Disk
+bits binary:00000001
+-------8.jpg-------
+Large rectangle: 2
+Small rectangle: 10
+Number of strips: 2
+control line= 1
+bits decimal: 0
+Side=Triangle
+bits binary:00000000
+-------35.jpg-------
+Large rectangle: 2
+Small rectangle: 9
+Number of strips: 0
+control line= 0
+bits decimal: 64
+Side=Disk
+bits binary:01000000
+-------36.jpg-------
+Large rectangle: 1
+Small rectangle: 8
+Number of strips: 2
+control line= 1
+bits decimal: 0
+Side=Dimond
+bits binary:00000000
+-------21.jpg-------
+-------12.jpg-------
+Large rectangle: 4
+Small rectangle: 9
+Number of strips: 2
+control line= 1
+bits decimal: 192
+Side=Triangle
+bits binary:11000000
+-------9.jpg-------
+Large rectangle: 4
+Small rectangle: 8
+Number of strips: 2
+control line= 1
+bits decimal: 192
+Side=Triangle
+bits binary:11000000
+-------4.jpg-------
+Large rectangle: 4
+Small rectangle: 8
+Number of strips: 1
+control line= 1
+bits decimal: 192
+Side=Disk
+bits binary:11000000
+-------8.jpg-------
+Large rectangle: 2
+Small rectangle: 10
+Number of strips: 2
+control line= 1
+bits decimal: 0
+Side=Triangle
+bits binary:00000000
+-------8.jpg-------
+Large rectangle: 2
+Small rectangle: 10
+Number of strips: 2
+control line= 1
+bits decimal: 0
+Side=Triangle
+bits binary:00000000
+-------8.jpg-------
+Large rectangle: 2
+Small rectangle: 10
+Number of strips: 2
+control line= 1
+bits decimal: 0
+Side=Triangle
+bits binary:00000000
+-------8.jpg-------
+Large rectangle: 2
+Small rectangle: 10
+Number of strips: 2
+control line= 1
+bits decimal: 0
+Side=Triangle
+bits binary:00000000
+-------8.jpg-------
+Large rectangle: 2
+Small rectangle: 10
+Number of strips: 2
+control line= 1
+bits decimal: 0
+Side=Triangle
+bits binary:00000000
+-------8.jpg-------
+Large rectangle: 2
+Small rectangle: 10
+Number of strips: 2
+control line= 1
+bits decimal: 0
+Side=Triangle
+bits binary:00000000
+-------1.jpg-------
+Large rectangle: 4
+Small rectangle: 8
+Number of strips: 1
+control line= 0
+bits decimal: 192
+Side=Cross
+bits binary:11000000
+-------4.jpg-------
+Large rectangle: 4
+Small rectangle: 8
+Number of strips: 1
+control line= 1
+bits decimal: 192
+Side=Disk
+bits binary:11000000
+-------1.jpg-------
+Large rectangle: 4
+Small rectangle: 8
+Number of strips: 1
+control line= 0
+bits decimal: 192
+Side=Cross
+bits binary:11000000
+-------2.jpg-------
+Large rectangle: 4
+Small rectangle: 7
+Number of strips: 2
+control line= 1
+bits decimal: 192
+Side=Triangle
+bits binary:11000000
+-------14.jpg-------
+Large rectangle: 2
+Small rectangle: 10
+Number of strips: 2
+control line= 1
+bits decimal: 64
+Side=Dimond
+bits binary:01000000
